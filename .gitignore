@@ -62,3 +62,9 @@ notebooks/.ipynb_checkpoints
 
 # Emacs
 *~
+
+# Virtual Enviroments
+.venv/
+
+# VSCode
+.vscode/
